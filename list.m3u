@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="aloula" group-titel="Maroc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_Al_Aoula_Tv_Logo.png"
-https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
+#EXTINF:0 tvg-id="channel" group-title="2g"
+http://s7935.x.smline.xyz:2082/plays/VUJRdkhoQ29DVUp6dDdORE56NHZ1bDE4dHg2TmNCTHF0K0ljQ29zUmhlR1RaSml6NHQ4RTYyaWNOaUtGKzF1OXNHRDRVdzdUZ0JyUkhsS0wzMzJiZ2c9PQ==.ts
